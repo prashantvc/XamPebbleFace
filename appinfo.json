@@ -1,0 +1,25 @@
+{
+  "uuid": "aa843cb2-90f4-4469-af5a-80ceec98f631",
+  "shortName": "XamTime",
+  "longName": "Xamarin Watch face",
+  "companyName": "Colour Code",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "HEX_IMAGE",
+        "file": "Hex.png"
+      }
+    ]
+  }
+}
